@@ -5,7 +5,6 @@
 		<router-view></router-view>
 	</div>
 </template>
-
 <script>
 	import NavHeader from './components/NavHeader'
 	import loading from './components/loading'
