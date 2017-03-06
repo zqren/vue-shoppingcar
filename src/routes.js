@@ -4,7 +4,6 @@
 
 const routes = [{
 	path: '/',
-	name: 'Home',
 	//	component: Product
 	component: require('./components/product')
 }, {
